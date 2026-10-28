@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+eeg_data/
+*.edf
+.DS_Store
