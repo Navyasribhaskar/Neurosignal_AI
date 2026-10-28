@@ -54,6 +54,6 @@ EEG classifier or a medical diagnostic system.
 - Improve model evaluation and reproducibility
 
 ## Author
-[Your Name]
+Navyasree
 
 For educational and research purposes only.
