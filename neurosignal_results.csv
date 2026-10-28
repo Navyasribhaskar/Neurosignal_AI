@@ -1,0 +1,7 @@
+Model,Metric,Mean score,Standard deviation
+CSP + Logistic Regression,accuracy,0.5066666666666666,0.024944382578492935
+CSP + Logistic Regression,balanced_accuracy,0.50625,0.024509068616421235
+CSP + Logistic Regression,f1,0.3453236539624925,0.2076436996417064
+Majority-class baseline,accuracy,0.5133333333333333,0.01632993161855452
+Majority-class baseline,balanced_accuracy,0.5,0.0
+Majority-class baseline,f1,0.0,0.0
